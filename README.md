@@ -26,11 +26,13 @@
   </a>
 </div>
 
-<br/><br/>
- 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
 
-<div align="center">
+<details>
+  <summary>⚒️ Tech Stack ⚒️</summary>
+  <div>
+  <samp>
+    <div align="center">
   
   ### 👨🏻‍💻 Programming Languages
   
@@ -71,12 +73,15 @@
    </p>
 
 </div>
-<br/>
+  </samp>
+  </div>
+</details>
 
-<h2 align="center"> 🔥 Stats 🔥 </h2>
-<br>
-
-  <p align="center">
+<details>
+  <summary>🔥 Stats 🔥</summary>
+  <div>
+    <samp>
+      <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debnoceda&langs_count=10&theme=gruvbox&layout=compact&hide_border=true" alt="debnoceda :: Top Langs" />
   </p>
 
@@ -84,6 +89,8 @@
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=debnoceda&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=debnoceda&theme=gruvbox&hide_border=true" />
   </p>
+    </samp>
+  </div>
+</details>
 
-<br/><br/>
 
