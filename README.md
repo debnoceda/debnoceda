@@ -75,13 +75,8 @@
 <h2 align="center"> 🔥 Stats 🔥 </h2>
 <br>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debnoceda&langs_count=10&theme=gruvbox&layout=compact&hide_border=true" alt="debnoceda :: Top Langs" />
-  </p>
-
   <p align ="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=debnoceda&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=debnoceda&theme=gruvbox&hide_border=true" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=debnoceda&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
   </p>
 
 <br/><br/>
