@@ -15,6 +15,7 @@
  🌱 I’m currently learning **C#, Unity, Python**
 
  </div>
+ <br/>
 
  <div align="center"> 
   <a href="mailto:deibeunoceda26@gmail.com">
@@ -25,7 +26,7 @@
   </a>
 </div>
 
- <hr/>
+<br/><br/>
  
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
@@ -75,8 +76,13 @@
 <h2 align="center"> 🔥 Stats 🔥 </h2>
 <br>
 
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debnoceda&langs_count=10&theme=gruvbox&layout=compact&hide_border=true" alt="debnoceda :: Top Langs" />
+  </p>
+
   <p align ="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=debnoceda&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=debnoceda&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=debnoceda&theme=gruvbox&hide_border=true" />
   </p>
 
 <br/><br/>
